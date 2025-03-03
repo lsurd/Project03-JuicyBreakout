@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -4667,10 +4666,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1126505505269781798, guid: 94be2f8010aaaf84d97a9ce94be2c0d1, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.17535
+      objectReference: {fileID: 0}
+    - target: {fileID: 1126505505269781798, guid: 94be2f8010aaaf84d97a9ce94be2c0d1, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.157025
+      objectReference: {fileID: 0}
+    - target: {fileID: 1126505505269781798, guid: 94be2f8010aaaf84d97a9ce94be2c0d1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.022
+      objectReference: {fileID: 0}
+    - target: {fileID: 1126505505269781798, guid: 94be2f8010aaaf84d97a9ce94be2c0d1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.007
+      objectReference: {fileID: 0}
     - target: {fileID: 4650596125386521317, guid: 94be2f8010aaaf84d97a9ce94be2c0d1, type: 3}
       propertyPath: m_Name
       value: Ball
       objectReference: {fileID: 0}
+    - target: {fileID: 8179483205303244278, guid: 94be2f8010aaaf84d97a9ce94be2c0d1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0fb097269d1f5864194272d6e0928df8, type: 3}
     - target: {fileID: 8877229074771934317, guid: 94be2f8010aaaf84d97a9ce94be2c0d1, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.02
