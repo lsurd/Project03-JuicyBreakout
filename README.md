@@ -1,9 +1,10 @@
 # Project03-JuicyBreakout
 
 # Project Name
-Context and date
+context: creating a "juicy" brick breaking game, focusing less on the coding aspects, and more on the physical/aesthetic aspects of the game. 
+date: 3/2/2025
 
-Description
+Description: The concept the aesthetic is supposed to support is that the player is a dragon breaking gemstones down from cave cielings to collect for their hoards. The goal is to break down as many rectangle shaped gems as possible with the three avaliable fireballs at the players disposal. 
 
 ## Implementation
 Which features you included
